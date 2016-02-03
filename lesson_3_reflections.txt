@@ -13,3 +13,7 @@ of another?
 I understood forks is for cloning a repository only from Github to Github, I mean it will be remote.
 Instead, clones is the same idea as forks but it is locally, from Github to local repository.
 And branches works only locally, it is used for separate a project in any amount  branches are needed.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+The benefit is that I can see the changes made and have a reference for future issues and errors.
