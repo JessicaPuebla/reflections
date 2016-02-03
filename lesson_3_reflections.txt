@@ -17,3 +17,8 @@ And branches works only locally, it is used for separate a project in any amount
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 The benefit is that I can see the changes made and have a reference for future issues and errors.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I think you can use other technologies like share folders or something like that. I think in big
+projects with a big amount of participant it would be easier using Git.
